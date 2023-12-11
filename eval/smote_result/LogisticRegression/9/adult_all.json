@@ -1,0 +1,1 @@
+{"Dataset": "adult_all", "Method": "LogisticRegression", "Accuracy": 0.7282247135641247, "Precision": 0.681039585098643, "Recall": 0.7380442243795963, "F1": 0.6858760580186269}

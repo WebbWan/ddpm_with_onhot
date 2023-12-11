@@ -1,0 +1,1 @@
+{"Dataset": "accent-mfcc-data-1", "Method": "MLP", "Accuracy": 0.7987804878048781, "Precision": 0.731805847225463, "Recall": 0.8169011544011543, "F1": 0.7494831959722629}

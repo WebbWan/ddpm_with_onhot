@@ -1,0 +1,1 @@
+{"Dataset": "promoter", "Method": "LogisticRegression", "Accuracy": 0.8421052631578947, "Precision": 0.8579710144927537, "Recall": 0.8421052631578947, "F1": 0.8403361344537814}

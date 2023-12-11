@@ -1,0 +1,1 @@
+{"Dataset": "penguins_size_sample", "Method": "MLP", "Accuracy": 0.9696969696969697, "Precision": 0.9444444444444445, "Recall": 0.9814814814814815, "F1": 0.9601731601731602}

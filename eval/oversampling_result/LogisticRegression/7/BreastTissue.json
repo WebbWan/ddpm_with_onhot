@@ -1,0 +1,1 @@
+{"Dataset": "BreastTissue", "Method": "LogisticRegression", "Accuracy": 0.675, "Precision": 0.7183441558441558, "Recall": 0.6740079365079364, "F1": 0.6784401600578072}

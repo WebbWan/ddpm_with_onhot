@@ -1,0 +1,1 @@
+{"Dataset": "echocardiogram", "Method": "LogisticRegression", "Accuracy": 0.7241379310344828, "Precision": 0.675, "Recall": 0.6166666666666667, "F1": 0.6233766233766234}

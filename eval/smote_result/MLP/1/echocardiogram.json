@@ -1,0 +1,1 @@
+{"Dataset": "echocardiogram", "Method": "MLP", "Accuracy": 0.7931034482758621, "Precision": 0.8846153846153846, "Recall": 0.6666666666666666, "F1": 0.6847826086956522}

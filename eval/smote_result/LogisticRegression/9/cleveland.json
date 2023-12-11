@@ -1,0 +1,1 @@
+{"Dataset": "cleveland", "Method": "LogisticRegression", "Accuracy": 0.8092485549132948, "Precision": 0.8104700854700855, "Recall": 0.7975020475020476, "F1": 0.8015848191012408}

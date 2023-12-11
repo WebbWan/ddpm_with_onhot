@@ -1,0 +1,1 @@
+{"Dataset": "accent-mfcc-data-1", "Method": "SVM", "Accuracy": 0.8109756097560976, "Precision": 0.6842978644449232, "Recall": 0.78866341991342, "F1": 0.7186850178667958}

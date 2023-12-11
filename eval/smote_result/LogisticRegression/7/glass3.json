@@ -1,0 +1,1 @@
+{"Dataset": "glass3", "Method": "LogisticRegression", "Accuracy": 0.6329113924050633, "Precision": 0.5964590964590964, "Recall": 0.7275985663082437, "F1": 0.6334658575713189}

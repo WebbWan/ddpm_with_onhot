@@ -1,0 +1,1 @@
+{"Dataset": "heart", "Method": "LogisticRegression", "Accuracy": 0.8285714285714286, "Precision": 0.8225641025641026, "Recall": 0.8363636363636364, "F1": 0.8250000000000001}

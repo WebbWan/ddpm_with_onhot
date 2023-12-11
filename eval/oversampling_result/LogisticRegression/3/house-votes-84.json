@@ -1,0 +1,1 @@
+{"Dataset": "house-votes-84", "Method": "LogisticRegression", "Accuracy": 0.9563636363636364, "Precision": 0.9455927773818009, "Recall": 0.9558823529411765, "F1": 0.9504504504504504}

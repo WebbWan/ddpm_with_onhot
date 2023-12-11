@@ -1,0 +1,1 @@
+{"Dataset": "mushroom", "Method": "LogisticRegression", "Accuracy": 0.9765941295546559, "Precision": 0.9765264477434743, "Recall": 0.976604264874731, "F1": 0.9765640853358737}

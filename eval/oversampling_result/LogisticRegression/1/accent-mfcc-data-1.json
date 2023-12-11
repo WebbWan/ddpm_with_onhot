@@ -1,0 +1,1 @@
+{"Dataset": "accent-mfcc-data-1", "Method": "LogisticRegression", "Accuracy": 0.7317073170731707, "Precision": 0.625927033492823, "Recall": 0.7690927128427129, "F1": 0.6754284947833336}

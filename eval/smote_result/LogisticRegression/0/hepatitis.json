@@ -1,0 +1,1 @@
+{"Dataset": "hepatitis", "Method": "LogisticRegression", "Accuracy": 0.717948717948718, "Precision": 0.6574074074074074, "Recall": 0.6655844155844155, "F1": 0.6608695652173913}

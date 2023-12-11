@@ -1,0 +1,1 @@
+{"Dataset": "bupa", "Method": "LogisticRegression", "Accuracy": 0.6631578947368421, "Precision": 0.6679086063955784, "Recall": 0.6740409207161125, "F1": 0.661319073083779}

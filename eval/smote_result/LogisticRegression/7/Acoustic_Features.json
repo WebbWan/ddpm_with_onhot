@@ -1,0 +1,1 @@
+{"Dataset": "Acoustic_Features", "Method": "LogisticRegression", "Accuracy": 0.6470588235294118, "Precision": 0.677770673486786, "Recall": 0.6470588235294117, "F1": 0.6522857310812399}

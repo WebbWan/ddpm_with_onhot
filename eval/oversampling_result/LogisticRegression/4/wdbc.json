@@ -1,0 +1,1 @@
+{"Dataset": "wdbc", "Method": "LogisticRegression", "Accuracy": 0.918918918918919, "Precision": 0.8669786096256684, "Recall": 0.9291297550807712, "F1": 0.891612363245053}

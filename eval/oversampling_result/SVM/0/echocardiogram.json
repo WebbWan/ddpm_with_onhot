@@ -1,0 +1,1 @@
+{"Dataset": "echocardiogram", "Method": "SVM", "Accuracy": 0.6206896551724138, "Precision": 0.6418269230769231, "Recall": 0.663888888888889, "F1": 0.6133333333333334}
